@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Janka
+- 👋 Hi, I’m Janka (pronounced like 'Bianca' but without the 'B')
 - 👀 I’m interested in web development and graphic/web design
 - 🌱 I’m currently learning React refactoring and advanced Laravel
 - 📫 Follow me on X where I post my daily tech shenanigans: https://twitter.com/antalova_janka
